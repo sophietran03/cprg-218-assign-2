@@ -56,7 +56,7 @@
 }
 
 .about-btn {
-  background-color: #039693;
+  background-color: #014a49;
   border: none;
   color: #ffffff;
   padding: 10px 20px;
@@ -71,7 +71,7 @@
 }
 
 .about-btn:hover {
-  background-color: #006562;
+  background-color: #15908c;
 }
 
 /* Project Section */
@@ -105,12 +105,12 @@
 }
 
 .project a {
+  color: #056866;
   text-decoration: none;
-  color: #039693;
 }
 
 .project a:hover {
-  color: #025554;
+  color: #23aeab;
 }
 
 .project img {
@@ -292,12 +292,6 @@
   }
 
   .project {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .project > * {
-    width: 100%;
+    grid-template-columns: repeat(2,1fr);
   }
 }
