@@ -55,7 +55,7 @@
 }
 
 .about-btn {
-  background-color: #e65010;
+  background-color: #b9004d;
   border: none;
   color: #ffffff;
   padding: 10px 20px;
@@ -76,7 +76,7 @@
 /* Project Section */
 .project-container {
   height: 700px;
-  background-color: #fef3ed;
+  background-color: #f1f1f1;
 }
 
 .project {
@@ -105,7 +105,7 @@
 
 .project a {
   text-decoration: none;
-  color: #e65010;
+  color: #b9004d;
 }
 
 .project a:hover {
@@ -145,13 +145,13 @@
 }
 
 .active, .accordion:hover {
-  background-color: #fef3ed;
+  background-color: #f1f1f1;
   color: #010a83;
 }
 
 .panel {
   padding: 0 18px;
-  background-color: #fef3ed;
+  background-color: #f1f1f1;
   color: #000000;
   border-bottom: 2px solid #000000;
   max-height: 0;
