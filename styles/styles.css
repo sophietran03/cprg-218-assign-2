@@ -76,7 +76,7 @@
 /* Project Section */
 .project-container {
   height: 700px;
-  background-color: #f1f1f1;
+  background-color: #dfede8;
 }
 
 .project {
@@ -121,7 +121,7 @@
 
 /* FAQ Section */
 .accordion-container {
-  background-color: #ffffff;
+  background-color: #dfecf4;
   height: auto;
 }
 
@@ -133,7 +133,7 @@
 }
 
 .accordion {
-  background-color: #ffffff;
+  background-color: #dfecf4;
   color: #000000;
   cursor: pointer;
   padding: 18px;
@@ -145,13 +145,13 @@
 }
 
 .active, .accordion:hover {
-  background-color: #f1f1f1;
+  background-color: #ffffff;
   color: #010a83;
 }
 
 .panel {
   padding: 0 18px;
-  background-color: #f1f1f1;
+  background-color: #ffffff;
   color: #000000;
   border-bottom: 2px solid #000000;
   max-height: 0;
@@ -178,6 +178,7 @@
 .video-container {
   position: relative;
   width: 100%;
+  background-color: #f4eadf;
 }
 
 .video-container h2 {
